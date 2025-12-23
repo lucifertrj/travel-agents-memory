@@ -7,5 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "agno>=2.3.16",
     "cognee>=0.5.1",
+    "cognee-community-vector-adapter-qdrant>=0.2.0",
     "google-genai>=1.56.0",
+    "python-dotenv>=1.0.0",
 ]
